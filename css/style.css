@@ -1,0 +1,14 @@
+/* 
+ * BMI Calculator Styles
+ * Version: 0.01
+ * Author: Rick Hayes
+ */
+.bmi-calculator { max-width: 500px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 5px; }
+.form-group { margin-bottom: 15px; }
+label { display: inline-block; width: 80px; }
+input[type='number'] { width: 100px; padding: 5px; }
+select { padding: 5px; }
+.submit-btn { background-color: #0073aa; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+.submit-btn:hover { background-color: #005d82; }
+.bmi-result { margin-top: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 5px; }
+.bmi-result h3 { margin: 0 0 10px; }
